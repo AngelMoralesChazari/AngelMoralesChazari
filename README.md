@@ -1,22 +1,20 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola Soy Angel 👋</h1> 
 
 <p align="left">
-  <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="https://www.linkedin.com/in/angel-morales-chazari-9b9856370/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Estudiante de Ingenieria en Computación
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+💻 Estudiante Autodidacta 
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+📝 Me Fascinan Los Retos
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **artes23graficas@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -25,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,java,dart,flutter,py,firebase,git,github,postman,eclipse,vscode,bash,linux&perline=12" />
   </a>
 </p>
 <br>
