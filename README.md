@@ -10,7 +10,7 @@
 <p align="left">
 🎓 Estudiante de Ingenieria en Computación
 
-💻 Estudiante Autodidacta 
+💻 Autodidacta 
 
 📝 Me Fascinan Los Retos
 
