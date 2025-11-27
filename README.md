@@ -12,14 +12,12 @@
 
 💻 Autodidacta 
 
-📝 Me Fascinan Los Retos
-
-📫 Contacto: **artes23graficas@gmail.com**
+📫 Contacto: **angelmoralesch@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Skills 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
