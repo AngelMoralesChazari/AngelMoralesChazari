@@ -1,5 +1,4 @@
 # <h1 align="center">¡Hola! Soy Angel Morales Chazari 👋</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-morales-chazari-9b9856370/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,7 +12,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="30" height="30" align="center" /> Sobre Mí
 
-Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de software. Me enfoco en la creación de soluciones eficientes, desarrollo de lógica/compiladores y herramientas robustas tanto a nivel académico como profesional. 
+Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de software. Me enfoco en la creación de soluciones eficientes, desarrollo de lógica/compiladores y herramientas robustas tanto a nivel académico como profesional.
 
 - 🎓 **Estudiante de Ingeniería en Computación** - 💻 **Desarrollador de Software Autodidacta**
 - 🚀 **Áreas de interés:** Lenguajes de bajo nivel, lógica formal, análisis de software.
@@ -35,18 +34,22 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 <table align="center" border="0" cellpadding="0" cellspacing="10">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="410" />
+      <!-- Stats generales con todos los commits históricos -->
+      <img src="https://github-readme-stats.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="410" height="200" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false" width="410" />
+      <!-- Lenguajes más usados — mismo tamaño que las demás tarjetas -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="410" height="200" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="410" />
+      <!-- Racha — cambiado a vercel para mayor precisión -->
+      <img src="https://github-readme-streak-stats.vercel.app?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="410" height="200" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" width="410" />
+      <!-- 4to cuadro: Trofeos / logros de GitHub -->
+      <img src="https://github-profile-trophy.vercel.app/?username=AngelMoralesChazari&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=4&margin-h=4" width="410" height="200" />
     </td>
   </tr>
 </table>
