@@ -46,7 +46,7 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="410" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false&hide_title=true&card_width=410" width="410" />
+      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" width="410" />
     </td>
   </tr>
 </table>
