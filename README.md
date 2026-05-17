@@ -13,10 +13,10 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="30" height="30" /> Sobre Mí
 
-Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de software y la ciberseguridad. Me enfoco en la creación de soluciones eficientes, desarrollo de lógica/compiladores y herramientas robustas tanto a nivel académico como profesional. 
+Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de software. Me enfoco en la creación de soluciones eficientes, desarrollo de lógica y herramientas robustas tanto a nivel académico como profesional. 
 
 - 🎓 **Estudiante de Ingeniería en Computación** - 💻 **Desarrollador de Software Autodidacta**
-- 🚀 **Áreas de interés:** Lenguajes de bajo nivel, lógica formal, análisis de software y hacking ético.
+- 🚀 **Áreas de interés:** Lenguajes de bajo nivel, lógica formal, análisis de software.
 
 ---
 
@@ -30,7 +30,7 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> GitHub Stats & Métricas Pro
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estadísticas de GitHub" height="180px" />
