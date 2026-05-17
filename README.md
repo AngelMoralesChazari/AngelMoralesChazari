@@ -34,21 +34,17 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 <table align="center" border="0" cellpadding="0" cellspacing="10">
   <tr>
     <td align="center" valign="middle">
-      <!-- Stats generales con todos los commits históricos -->
-      <img src="https://github-readme-stats.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="410" height="200" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="410" height="200" />
     </td>
     <td align="center" valign="middle">
-      <!-- Lenguajes más usados — mismo tamaño que las demás tarjetas -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="410" height="200" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="410" height="200" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <!-- Racha — cambiado a vercel para mayor precisión -->
-      <img src="https://github-readme-streak-stats.vercel.app?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="410" height="200" />
+      <img src="https://streak-stats.demolab.com?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="410" height="200" />
     </td>
     <td align="center" valign="middle">
-      <!-- 4to cuadro: Trofeos / logros de GitHub -->
       <img src="https://github-profile-trophy.vercel.app/?username=AngelMoralesChazari&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=4&margin-h=4" width="410" height="200" />
     </td>
   </tr>
