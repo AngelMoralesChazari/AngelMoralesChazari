@@ -35,18 +35,18 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 <table align="center" border="0" cellpadding="0" cellspacing="10">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estadísticas de GitHub" width="400" />
+      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="410" height="165" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" width="400" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false&card_width=410" width="410" height="165" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" width="400" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="410" height="165" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AngelMoralesChazari&repo=AngelMoralesChazari&theme=tokyonight&show_owner=true" alt="Repositorio Perfil" width="400" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AngelMoralesChazari&repo=AngelMoralesChazari&theme=tokyonight&show_owner=true" width="410" height="165" />
     </td>
   </tr>
 </table>
