@@ -33,19 +33,19 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 
 <table align="center" border="0" cellpadding="0" cellspacing="10">
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="410" height="200" />
+    <td align="center" valign="top" width="410">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=400" width="410" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="410" height="200" />
+    <td align="center" valign="top" width="410">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&card_width=400" width="410" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="410" height="200" />
+    <td align="center" valign="top" width="410">
+      <img src="https://streak-stats.demolab.com?user=AngelMoralesChazari&theme=tokyonight&hide_border=false&card_width=400" width="410" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://github-profile-trophy.vercel.app/?username=AngelMoralesChazari&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=4&margin-h=4" width="410" height="200" />
+    <td align="center" valign="top" width="410">
+      <img src="https://github-profile-trophy.vercel.app/?username=AngelMoralesChazari&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=4&margin-h=4" width="410" />
     </td>
   </tr>
 </table>
