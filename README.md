@@ -32,24 +32,24 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" align="center" /> GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="5">
-  <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estadísticas de GitHub" width="410px" height="170px" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" width="410px" height="170px" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" width="410px" height="170px" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=AngelMoralesChazari&theme=tokyonight&layout=compact&hide_border=false" alt="Tiempo de Desarrollo" width="410px" height="170px" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="180em" 
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="180em" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=AngelMoralesChazari&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
+</p>
 
 ---
 
