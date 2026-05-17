@@ -32,20 +32,24 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" align="center" /> GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="5">
+<table align="center" border="0" cellpadding="0" cellspacing="10">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="410" />
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false" width="410" />
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="410" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false&hide_title=true&card_width=410" width="410" />
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" width="830" />
-</p>
 
 ---
 
