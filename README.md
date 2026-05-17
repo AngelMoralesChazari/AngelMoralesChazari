@@ -32,21 +32,21 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" align="center" /> GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="10">
+<table align="center" border="0" cellpadding="0" cellspacing="5">
   <tr>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estadísticas de GitHub" height="150px" />
+      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estadísticas de GitHub" width="410px" height="170px" />
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" height="150px" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" width="410px" height="170px" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" height="150px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" width="410px" height="170px" />
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AngelMoralesChazari&repo=tms_taekwondo&theme=tokyonight" alt="Proyecto Destacado" height="150px" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=AngelMoralesChazari&theme=tokyonight&layout=compact&hide_border=false" alt="Tiempo de Desarrollo" width="410px" height="170px" />
     </td>
   </tr>
 </table>
