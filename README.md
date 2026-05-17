@@ -32,21 +32,21 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" align="center" /> GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="5">
+<table align="center" border="0" cellpadding="0" cellspacing="10">
   <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estadísticas de GitHub" width="410px" height="170px" />
+    <td align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api?username=AngelMoralesChazari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estadísticas de GitHub" width="400" />
     </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" width="410px" height="170px" />
+    <td align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AngelMoralesChazari&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" width="400" />
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" width="410px" height="170px" />
+    <td align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMoralesChazari&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" width="400" />
     </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=AngelMoralesChazari&theme=tokyonight&layout=compact&hide_border=false" alt="Tiempo de Desarrollo" width="410px" height="170px" />
+    <td align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AngelMoralesChazari&repo=AngelMoralesChazari&theme=tokyonight&show_owner=true" alt="Repositorio Perfil" width="400" />
     </td>
   </tr>
 </table>
