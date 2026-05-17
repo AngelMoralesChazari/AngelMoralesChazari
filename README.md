@@ -44,7 +44,7 @@ Soy un apasionado de la **Ingeniería en Computación**, el desarrollo de softwa
     <td align="center" valign="top" width="410">
       <img src="https://streak-stats.demolab.com?user=AngelMoralesChazari&theme=tokyonight&hide_border=false&card_width=400" width="410" />
     </td>
-    <td align="center" valign="middle" width="410" height="195">
+    <td align="center" valign="middle" width="410" height="200">
       <img src="https://github-profile-trophy.vercel.app/?username=AngelMoralesChazari&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=8&margin-h=8" width="410" />
     </td>
   </tr>
